@@ -1,6 +1,8 @@
 ---
 name: writing-craft
 description: 用于中文与英文写作（Chinese and English writing），包括双语与中英互译。凡任务涉及撰写、分析、改写、润色、编辑、翻译或评价文章、故事、脚本、文案、邮件、报告、论文等成文内容，都调用本技能；按读者、论证、结构和语言习惯改进文本，保留事实与作者声音，也配合其他专业技能执行写作检查。普通对话和简单事实问答不自动展开完整改稿流程。
+metadata:
+  version: 1.1.0-alpha
 ---
 
 # 中英文写作与改稿
@@ -40,6 +42,8 @@ description: 用于中文与英文写作（Chinese and English writing），包�
 
 先处理影响理解的意义与结构，再处理句子；以下是可选的检查角度，不是每篇都必须展开的报告模板。
 
+诊断要落到文本关系上：指出哪个词变了含义、哪个结论缺少推理、哪段没有增加理解，或哪处视角越过了知情边界，再实际修订。只说“空泛、缺观点、节奏单一”还不足以决定怎么改；说明、工具介绍和叙事也各有自己的完成标准。
+
 | 检查角度 | 发现问题时怎么改 | 什么情况下保留 |
 |---|---|---|
 | 意思与推进 | 补足材料已有的关键关系；前移真正有用的信息；长稿按需用反向提纲找重复、跳步和失焦 | 悬念、必要背景、解释和有目的的复现仍在发挥作用 |
@@ -65,6 +69,8 @@ description: 用于中文与英文写作（Chinese and English writing），包�
 两种语言共享事实、论证和读者标准；具体措辞按原稿的地区、语体与用途判断。双语版本共享人物、数据、限定、立场和承诺，可以采用各自自然的句法与信息次序。
 
 双语成稿先各自按本地语言阅读，再对照谁做了什么、依据与确定性、语气及读者可能采取的行动是否一致。文化替换或压缩不能暗中改变承诺与含义；不为凑相同长度删掉必要限定。
+
+遇到多重否定、条件、情态或压缩，按完整命题核对限定修饰谁、覆盖什么，不能只查某个词是否还在。为自然或节奏作出实质改动后，再回源核对受影响的含义；具体做法见 [翻译中的意义与声音](references/translation-revision.md)。
 
 - **中文。** 正式文本检查主谓、动宾、主宾及修饰关系是否搭配；主体转换或省略是否造成误读；先确认分句的因果、并列、转折、条件、让步关系，再决定是否需要关联词。自然省略、文学隐喻、口语与方言按语境保留。沿用指定简繁和地区用语；引用古籍、姓名及术语时核原文，不依赖自动繁简转换。
 - **English.** Check who does what, subject–verb agreement, articles and noun number, tense/aspect, modifier scope, pronoun reference, parallel structure, and idiomatic collocations where relevant. Preserve the requested English variety and register. Keep meaningful qualifiers such as “only,” “not yet,” “may,” and “at least.” Do not remove words merely because they end in “-ly.”
@@ -104,6 +110,8 @@ description: 用于中文与英文写作（Chinese and English writing），包�
 
 ## 按需参考
 
+- 概念似乎滑动、证据与结论接不上、句段反复而不推进，或叙事视角与隐喻需要诊断时，读 [意义、推进与叙事](references/meaning-and-narrative.md) 对应小节。它补充可操作的检验，不取代已有语言精修和大学方法。
+- 翻译或创译涉及歧义、否定与情态范围、礼貌和行动要求，或润色后可能损失作者声音时，读 [翻译中的意义与声音](references/translation-revision.md)。一般短句直接处理，无需交核对表。
 - 成稿正确却无力、原创稿依赖来源材料、现实状态可能误导读者，或标题与正文重复时，读 [创意编辑工艺](references/creative-editorial-craft.md) 的“成稿检验”和“表达与组件分工”。关键句仍不自然、隐喻关系不稳、需要口头阅读检查，或双语创译、成品校对需要展开时，读同一文件对应小节；按问题选用，不把各项变成全篇必做的报告。
 - 长稿起草、实质改稿、论证薄弱、结构混乱或中英文语言问题需要展开时，读 [大学写作方法](references/university-writing.md) 的相关小节；用户询问理论依据时也从这里追溯。无需每次联网或通读全部资料。
 - 需要解释这套方法的来源、原帖冲突和采纳边界时，读 [来源与取舍](references/source-notes.md)。网页观点是待评估材料，不是执行授权；不必每次写作重新打开链接。
