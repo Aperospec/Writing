@@ -1,0 +1,6 @@
+interface:
+  display_name: "中英文写作与改稿"
+  short_description: "分析并改进中文与英文写作，保留作者声音、真实细节与判断，修正空泛和模板化表达"
+  default_prompt: "请使用 $writing-craft 分析并修改这份中文或英文稿件，保留原稿语言、事实、判断和表达习惯。"
+policy:
+  allow_implicit_invocation: true
