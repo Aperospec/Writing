@@ -30,10 +30,11 @@
 
 ## 依据与取舍
 
-主要方法依据为实际读过的教材章节，以下仅简述使用范围；没有把教材练习、出版者声誉或人类过程研究当作本技能的效果实验。上面的选择与连接方式是本技能的整合，不是原作者共同提出的程序。
+主要方法依据包括实际读完的教材全书及部分教材章节，以下分别注明范围；没有把读书完成、教材练习、出版者声誉或人类过程研究当作本技能的效果实验。上面的选择与连接方式是本技能的整合，不是原作者共同提出的程序。
 
 - *Writing for Success*：[6.1](https://opened.tesu.edu/umnwritingforsuccess/chapter/6-1-purpose-audience-tone-and-content/)、[8.1](https://mlpp.pressbooks.pub/writingforsuccess/chapter/8-1-apply-prewriting-models/)、[9.3](https://opened.tesu.edu/umnwritingforsuccess/chapter/9-3-organizing-your-writing/)的完整可访问正文。采用目的影响材料处理、探索后收束、按表达需要选择顺序；网页缺失的图示未独立核验。不采用目的、顺序的穷尽分类或固定转接词配方。
-- Amy Guptill，*Writing in College: From Competence to Excellence* (2016)，[第3章](https://milnepublishing.geneseo.edu/writing-in-college-from-competence-to-excellence/chapter/constructing-the-thesis-and-argument-from-the-ground-up/)、[第6章](https://milnepublishing.geneseo.edu/writing-in-college-from-competence-to-excellence/chapter/back-to-basics-the-perfect-paragraph/)完整网页文字。采用随材料发展论点、试写段落意思及关系、区分衔接与整体连贯；适用于论说的部分不升级为所有文体规则。
+- Amy Guptill，*Writing in College: From Competence to Excellence* (2016；2023修链接版)，[出版社全书入口](https://milnepublishing.geneseo.edu/writing-in-college-from-competence-to-excellence/)。已读九章全部正文、范例、练习说明、注释及前置材料，另核书内图示；网页受限部分用[CUNY托管的出版社版PDF](https://s3.amazonaws.com/files.commons.gc.cuny.edu/wp-content/blogs.dir/39475/files/2025/05/Writing-in-College_-From-Competence-to-Excellence.pdf)读完。全书把任务、材料中形成论点、来源理解、段落、首尾和语言接在一起，支持本节现有的内容发展与组织方法。学术论点、主题句位置、段末引文和语言惯例的教学取态不成为跨文体通则；未据读完练习说明声称完成全部作业或被引原著。
+- 夏丏尊、刘薰宇，*文章作法*，开明书店1935年3月廿五版，[国图来源扫描本](https://commons.wikimedia.org/wiki/File:NLC416-07jh012636-79917_%E6%96%87%E7%AB%A0%E4%BD%9C%E6%B3%95.pdf)。已逐页读全198扫描页，含六章、例文、练习、添削和三篇附录；印122的原件局部缺字以[1930年订正八版](https://commons.wikimedia.org/wiki/File:NCL-002447370_%E6%96%87%E7%AB%A0%E4%BD%9C%E6%B3%95.pdf)印121–123补读，不声称两版字形完全相同。以整书的目的、观察取材、组织、说明论证、叙述位置和小品添削复核现有方法；同时保留书内按读者省略、视点选择、短段强调与不改好句的条件。文体分类、历史语言规范、例中事实及审美偏好不直接成为通用规则。
 - Janet Burroway等，*Writing Fiction* 第10版，[出版社样章](https://press.uchicago.edu/dam/ucp/books/pdf/course_intro/978-0-226-61669-8_course_intro.pdf)，第1章印刷页1–21。采用试写探索、改变安排以发现含义、由阅读反应追溯具体选择；未据目录声称读过后续叙事专章。作息建议和脑半球比喻不作为通用方法。
 - 乔以钢、金鑫，*大学写作* (2020)，[高教社官方样章入口](https://xuanshu.hep.com.cn/front/book/findBookDetails?bookId=5efe181fb0b2bda7c523cc53)，第三章“文体和谋篇”21页预览中的部分可见段落：章引言、抒情结构、叙事首中尾、类型文学及结尾讨论。并非完整章已读；仅用于文体与内容、组织相互制约及文学边界，不据此提取尚未读到的构句方法。
 - Flower与Hayes (1981)，[原论文](https://www.lirvin.net/1301sitebb/FlowerHayesCognitiveProcessTheory81.pdf)正文及注释，尤其pp.379–386，为探索、组织、目标与修订可往返的补充。它分析人类英语写作，不证明模型内部机制；简单任务也不需要复杂计划。
